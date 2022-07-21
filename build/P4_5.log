@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.29)  17 JUL 2022 16:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.29)  21 JUL 2022 10:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -436,10 +436,10 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 4.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 8.
+(mdframed)              on input line 12.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 12.
+(mdframed)              on input line 21.
 ) (Ejs/e2.tex
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -458,6 +458,11 @@ Package mdframed Info: mdframed detected package amsthm
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 2.
+Package mdframed Info: Not enough space on this page on input line 4.
+ [1
+
+{C:/Users/benit/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Package mdframed Info: Not enough space on this page on input line 4.
 ) (Ejs/e5.tex
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -476,11 +481,6 @@ Package mdframed Info: mdframed detected package amsthm
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 4.
-Package mdframed Info: Not enough space on this page on input line 6.
- [1
-
-{C:/Users/benit/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Package mdframed Info: Not enough space on this page on input line 6.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 8.
@@ -515,6 +515,9 @@ Package mdframed Info: mdframed detected package amsthm
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 4.
+Package mdframed Info: Not enough space on this page on input line 6.
+ [2]
+Package mdframed Info: Not enough space on this page on input line 6.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 8.
@@ -524,19 +527,19 @@ Package mdframed Info: mdframed detected package amsthm
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 16.
-) [2] (c:\Users\benit\OneDrive - ib.edu.ar\Desktop\Home\Mate\Algebra_Lineal\Practicas\P4_5\build\P4_5.aux) ) 
+) [3] (c:\Users\benit\OneDrive - ib.edu.ar\Desktop\Home\Mate\Algebra_Lineal\Practicas\P4_5\build\P4_5.aux) ) 
 Here is how much of TeX's memory you used:
- 5648 strings out of 478582
- 90455 string characters out of 2860759
- 424292 words of memory out of 3000000
- 23706 multiletter control sequences out of 15000+600000
+ 5649 strings out of 478582
+ 90463 string characters out of 2860759
+ 428292 words of memory out of 3000000
+ 23707 multiletter control sequences out of 15000+600000
  476248 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,7n,77p,532b,430s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 73i,9n,77p,532b,430s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/MikTex/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/MikTex/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "c:\Users\benit\OneDrive - ib.edu.ar\Desktop\Home\Mate\Algebra_Lineal\Practicas\P4_5\build\P4_5.pdf" (2 pages, 126708 bytes).
+Output written on "c:\Users\benit\OneDrive - ib.edu.ar\Desktop\Home\Mate\Algebra_Lineal\Practicas\P4_5\build\P4_5.pdf" (3 pages, 129253 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
+ 67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

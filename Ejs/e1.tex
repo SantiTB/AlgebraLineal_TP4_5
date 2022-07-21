@@ -2,15 +2,24 @@
     \begin{enumerate}
         \item Si $p|q$ y $p|r$ entonces $p|(mq+nr)$ para todo $m,n\in\K[x]$.
             \begin{mdframed}[style=s]
-            
+                Como $p|q$ y $p|r$\[\to q=pa\quad\text{y}\quad r=pb\qquad a,b\in\K[x]\]
+                Entonces, dado $m,n\in\K[x]$\[mq=mpa\quad\text{y}\quad nr=npb\]
+                Al sumar las dos igualdades\[mq+nr=mpa+npb\]
+                Sacando factor común\[mq+nr=p(ma+nb)\]
+                Por lo tanto\[p|(mq+nr)\]
             \end{mdframed}
         \item Si $p|q$ y $p|q+r$ entonces $p|r$.
             \begin{mdframed}[style=s]
-            
+                \begin{align*}
+                    p|q\land p|q+r&\to q=pa\land q+r=pb\\
+                    &\to q+r-q=pb-pa\\
+                    &\to r=p(b-a)\\
+                    &\to p|r
+                \end{align*}
             \end{mdframed}
         \item Si $p|q$ y $gr(p)=gr(q)$ entonces existe $k\in\K$ tal que $p=kq$.
             \begin{mdframed}[style=s]
-            
+                Primero, tenemos que $q=pk$. Y como $gr(p)=gr(q)$ ya que $gr(q)=gr(p)+gr(k)\to gr(k)=0\to k\in\K$
             \end{mdframed}
     \end{enumerate}
     
