@@ -2,18 +2,32 @@
     \begin{enumerate}
         \item $\{p\in\K[x]:gr(p)\geq2\}\subset\K[x]$.
             \begin{mdframed}[style=s]
-                
+                Como el polinomio nulo no pertenece al conjunto, éste no es un subespacio, entonces no es un ideal.
             \end{mdframed}
         \item $\{p(x^2+4)\in\R[x]:p\in\R[x]\}\subset\R[x]$.
             \begin{mdframed}[style=s]
-                
+                Primero me fijo si es subespacio. Si al conjunto lo llamo $M$
+                \begin{enumerate}
+                    \item $0\in M$ ya que $0=0(x^2+4), 0\in\R[x]$
+                    \item Sea $m_1,m_2\in M\to m_1+m_2=p_1(x^2+4)+p_2(x^2+4)\quad p_1,p_2\in\R[x]$\\$\to m_1+m_2=(p_1+p_2)(x^2+4)\quad p_1+p_2\in\R[x]\to m_1+m_2\in M$
+                    \item Sea $\lambda\in\R, m\in M\to \lambda m=\lambda p(x^2+4)\to \lambda m\in M$
+                \end{enumerate}
+                Por lo tanto, $M$ es subespacio.\\
+                Ahora, sea $m\in M,f\in\R[x], mf=p(x^2+4)f=pf(x^2+4)\in M$. Por ende, $M$ es un ideal.
             \end{mdframed}
         \item $p\K[x]\subset\K[x],$ para $p\in\K[x]$.
             \begin{mdframed}[style=s]
-                
+                Es el ideal principal generado por $p$. Está en la teoría.
             \end{mdframed}
         \item Dado $\alpha\in\K, \{p\in\K[x]:p(\alpha)=0\}\subset\K[x]$.
             \begin{mdframed}[style=s]
-                
+                Primero me fijo si es subespacio. Si al conjunto lo llamo $M$
+                \begin{enumerate}
+                    \item $0\in M$ ya que $0(\alpha)=0$
+                    \item Sea $m_1,m_2\in M\to (m_1+m_2)(\alpha)=m_1(\alpha)+m_2(\alpha)=0+0=0\to m_1+m_2\in M$
+                    \item Sea $\lambda\in\R, m\in M\to (\lambda m)(\alpha)=\lambda m(\alpha)=\alpha0=0\to \lambda m\in M$
+                \end{enumerate}
+                Por ende, $M$ es subespacio.\\
+                Sea $f\in\K[x], (fp)(\alpha)=f(\alpha)p(\alpha)=f(\alpha)0=0\to fp\in M$. Por lo tanto, $M$ es un ideal.
             \end{mdframed}
     \end{enumerate}
