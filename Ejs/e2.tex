@@ -2,14 +2,19 @@
     \begin{enumerate}
         \item $\K^{(n)}[x]=\{p\in\K[x]:gr(p)\leq n\}\cup\{0\}$.
             \begin{mdframed}[style=s]
-            
+                \begin{enumerate}
+                    \item El polinomio nulo pertenece al conjunto.
+                    \item Sean $a,b\in\K^{(n)}[x]\to gr(a+b)\leq max\{gr(a),gr(b)\}\leq n\to a+b\in\K^{(n)}[x]$
+                    \item Sean $a\in\K^{(n)}[x],\lambda\in\K\to gr(\lambda a)=gr(\lambda)+gr(a)\leq n\to \lambda a\in \K^{(n)}[x]$
+                \end{enumerate}
+                Por lo tanto, $\K^{(n)}[x]$ es un subespacio.
             \end{mdframed}
         \item $\{p\in\K[x]:gr(p)=n\}\cup\{0\}$.
             \begin{mdframed}[style=s]
-            
+                Supongamos $a=x^3+x^2$ y $b=-x^3\to a+b=x^2$, el cual no forma parte del conjunto. Con lo cual, no es subespacio.
             \end{mdframed}
         \item $\{p\in\K[x]:gr(p)$ es impar$\}\cup\{0\}$.
             \begin{mdframed}[style=s]
-            
+                El mismo contraejemplo del inciso anterior funciona en este caso.
             \end{mdframed}
     \end{enumerate}

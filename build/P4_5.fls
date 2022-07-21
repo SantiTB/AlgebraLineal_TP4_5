@@ -500,12 +500,12 @@ INPUT Ejs\e3.tex
 INPUT .\Ejs\e3.tex
 INPUT Ejs\e3.tex
 INPUT C:\MikTex\fonts\tfm\public\cm\cmti10.tfm
-INPUT .\Ejs\e4.tex
-INPUT Ejs\e4.tex
-INPUT .\Ejs\e4.tex
-INPUT Ejs\e4.tex
 OUTPUT c:\Users\benit\OneDrive - ib.edu.ar\Desktop\Home\Mate\Algebra_Lineal\Practicas\P4_5\build\P4_5.pdf
 INPUT C:\Users\benit\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\Ejs\e4.tex
+INPUT Ejs\e4.tex
+INPUT .\Ejs\e4.tex
+INPUT Ejs\e4.tex
 INPUT .\Ejs\e5.tex
 INPUT Ejs\e5.tex
 INPUT .\Ejs\e5.tex
