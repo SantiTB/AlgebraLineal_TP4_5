@@ -527,6 +527,7 @@ INPUT .\Ejs\e6.tex
 INPUT Ejs\e6.tex
 INPUT .\Ejs\e6.tex
 INPUT Ejs\e6.tex
+INPUT C:\MikTex\fonts\tfm\public\cm\cmbx10.tfm
 INPUT .\Ejs\e7.tex
 INPUT Ejs\e7.tex
 INPUT .\Ejs\e7.tex
@@ -550,6 +551,8 @@ INPUT Ejs\e11.tex
 INPUT c:\Users\benit\OneDrive - ib.edu.ar\Desktop\Home\Mate\Algebra_Lineal\Practicas\P4_5\build\P4_5.aux
 INPUT C:\Users\benit\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\benit\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\MikTex\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\MikTex\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\MikTex\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\MikTex\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\MikTex\fonts\type1\public\amsfonts\cm\cmmi10.pfb

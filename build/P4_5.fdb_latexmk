@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1658427142 "c:/Users/benit/OneDrive - ib.edu.ar/Desktop/Home/Mate/Algebra_Lineal/Practicas/P4_5/P4_5.tex" "build/P4_5.pdf" "P4_5" 1658427144
+["pdflatex"] 1658493517 "c:/Users/benit/OneDrive - ib.edu.ar/Desktop/Home/Mate/Algebra_Lineal/Practicas/P4_5/P4_5.tex" "build/P4_5.pdf" "P4_5" 1658493519
   "C:/MikTex/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/MikTex/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/MikTex/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -9,6 +9,7 @@
   "C:/MikTex/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
   "C:/MikTex/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1233951854 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "C:/MikTex/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233951854 940 228d6584342e91276bf566bcf9716b83 ""
+  "C:/MikTex/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/MikTex/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "C:/MikTex/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/MikTex/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -21,6 +22,7 @@
   "C:/MikTex/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/MikTex/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
   "C:/MikTex/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "C:/MikTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/MikTex/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247596667 30251 6afa5cb1d0204815a708a080681d4674 ""
   "C:/MikTex/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/MikTex/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247596667 36281 c355509802a035cadc5f15869451dcee ""
@@ -92,12 +94,12 @@
   "Ejs/e3.tex" 1658412970 672 d8e8a4675d7c6af6e2f7ea329ba6984d ""
   "Ejs/e4.tex" 1658424909 633 df0e4a9142a21c74adfe4535a8d6bbfc ""
   "Ejs/e5.tex" 1658425944 477 cfd25873dc912cf043f06ace4531dfe3 ""
-  "Ejs/e6.tex" 1658084509 529 9d2e327e414391909d35bce99c334a57 ""
+  "Ejs/e6.tex" 1658493516 885 8094fd3972cd87f0ff95be6013294fb4 ""
   "Ejs/e7.tex" 1658427141 2064 1e9482ab9214238f45cd7547858fdf87 ""
   "Ejs/e8.tex" 1658084892 291 1cf1a56b709b8ee3c7e5c6486659af3e ""
   "Ejs/e9.tex" 1658085073 541 4e725b101cf2fe49e8acabd83e127e61 ""
   "P4_5.tex" 1658425814 1196 31426907cc2d8e352509631db6120fd1 ""
-  "build/P4_5.aux" 1658427143 67 3705c6601359574168251466ef4fff2b "pdflatex"
+  "build/P4_5.aux" 1658493518 67 3705c6601359574168251466ef4fff2b "pdflatex"
   "c:/Users/benit/OneDrive - ib.edu.ar/Desktop/Home/Mate/Algebra_Lineal/Practicas/P4_5/P4_5.tex" 1658425814 1196 31426907cc2d8e352509631db6120fd1 ""
   (generated)
   "build/P4_5.aux"
